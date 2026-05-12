@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commingling.github.io/huimin-studio-site/sitemap.xml
